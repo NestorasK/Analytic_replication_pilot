@@ -16,8 +16,8 @@ In each team folder you find a folder named **R**.
 1. Install dependencies by running the following command, `source(file = "Dependencies.R")`. 
 2. Run the individual .R script to recreate the corresponding figure. The filename of the scirpts correspond to the figure that will be reproduced.
 
-Note that all data should be downloaded from the initial publications' website and placed in the data folder.
-All results will be placed in the **Results** folder.
+Note that all data should be downloaded from the initial publications' website and placed in the **data** folder.
+All results will be placed in the **results** folder.
 
 # Questions - Feedback - Bugs
 Please use Issues github page for questions, suggestions and reporting bugs.
